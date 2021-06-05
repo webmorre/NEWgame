@@ -2,14 +2,9 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <style></style>
 </head>
-<style>
-  
-  
-  
-  
-  
-</style>
+
 <body>
   
 
