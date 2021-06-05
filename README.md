@@ -1,3 +1,22 @@
-# NEWgame
-unoficial yougame.biz redesign
-by hkon
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<style>
+  
+  
+  
+  
+  
+</style>
+<body>
+  
+
+
+
+
+
+
+</body>
+</html>
